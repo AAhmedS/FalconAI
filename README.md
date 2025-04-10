@@ -33,3 +33,4 @@ You can preview the FalconAI measurement platform through the following demo env
 **🔗 URL:** [https://measurements.falconai.net/](https://measurements.falconai.net/)  
 **📧 Email:** `admin@falconAi.com`  
 **🔑 Password:** `Admin123###`
+**🆔 Player ID for testing:** `DDDD`
