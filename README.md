@@ -34,3 +34,10 @@ You can preview the FalconAI measurement platform through the following demo env
 **📧 Email:** `admin@falconAi.com`  
 **🔑 Password:** `Admin123###`
 **🆔 Player ID for testing:** `DDDD`
+
+### 🏟️ FalconAI Club Management System  
+Explore player registrations, profiles, attendance tracking, and club-level performance insights.
+
+**🔗 URL:** [http://club.falconai.net](http://club.falconai.net)  
+**📧 Email:** `AILeague@gmail.com`  
+**🔑 Password:** `Admin123###`
