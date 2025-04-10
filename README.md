@@ -27,7 +27,6 @@ FalconAI is an AI-powered modular system designed to find and identiy talents in
   Contains the mobile interface prototype for field testing and data capture.
 
 ## 🌐 Live Demo Access
-
 You can preview the FalconAI measurement platform through the following demo environment:
 
 **🔗 URL:** [https://measurements.falconai.net/](https://measurements.falconai.net/)  
@@ -35,8 +34,8 @@ You can preview the FalconAI measurement platform through the following demo env
 **🔑 Password:** `Admin123###`
 **🆔 Player ID for testing:** `DDDD`
 
-### 🏟️ FalconAI Club Management System  
-Explore player registrations, profiles, attendance tracking, and club-level performance insights.
+## 🏟️ FalconAI Club Management System  
+Explore few functionalities of the backend system.
 
 **🔗 URL:** [http://club.falconai.net](http://club.falconai.net)  
 **📧 Email:** `AILeague@gmail.com`  
